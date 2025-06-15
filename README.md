@@ -1,5 +1,3 @@
-# Laporan Proyek Machine Learning - Bimo Birra
-
 ## Domain Proyek
 
 Penyakit jantung atau yang dikenal dengan penyakit kardiovaskular adalah salah satu penyakit yang menyebabkan kematian secara global, diperkirakan kematian dari penyakit ini mencapai 17,9 juta dalam tahun 2019. Sangat penting untuk mendeteksi penyakit seawal mungkin agar bisa dicegah seperti konseling beserta pemberian obat-obat bisa dimulai
